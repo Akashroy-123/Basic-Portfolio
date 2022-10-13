@@ -23,7 +23,7 @@ nav ul{
     position: absolute;
 }
 .sidebar nav{
-    padding: 24px;
+    padding: 24.5px;
     margin-top: 35px;
 }
 .sidebar nav li{
@@ -34,7 +34,7 @@ nav ul{
 .sidebar nav li a{
     text-decoration: none;
     color: black;
-    padding: 5px;
+    padding: 5.4px;
 }
 
 .sidebar nav li a{
@@ -42,7 +42,7 @@ nav ul{
 }
 .sidebar nav li a:hover{
     color: blanchedalmond;
-    background-color: black;
+    background-color: brown;
 }
 
 .main{
@@ -103,7 +103,7 @@ nav ul{
 }
 .btn:hover{
     color: #1e1e94;
-    background-color: white;
+    background-color: pink;
 }
 
 .contactform {
